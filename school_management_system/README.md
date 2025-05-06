@@ -161,35 +161,6 @@ npx hardhat run scripts/deploy.ts --network <network-name>
 - Event emission for tracking
 - Secure payment handling
 
-<!-- ## 📚 Usage Examples
-
-### Registering a Staff Member
-
-```javascript
-await schoolManagementSystem.registerStaff(
-  "John Doe",
-  "Mathematics",
-  staffAddress
-);
-```
-
-### Registering a Student
-
-```javascript
-await schoolManagementSystem.registerStudent(
-  "Jane Smith",
-  18,
-  "Female",
-  "Computer Science",
-  studentAddress
-);
-```
-
-### Creating a Course
-
-```javascript
-await schoolManagementSystem.createCourse("Blockchain Development");
-``` -->
 
 ## 🧪 Testing
 
